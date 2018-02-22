@@ -1,0 +1,6 @@
+1. git add .
+2. git commit -a -m "..."
+3. git push origin master
+
+git config --global user.email "juanfrancisco.pizarro@alu.uhu.es"
+git config --global user.name "kripton11"
