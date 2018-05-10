@@ -8,6 +8,3 @@ camino(g(_,A), Ini, Fin, [Ini], [Ini|Camino]):- %en visitados ponemos los vertic
 	
 grafo(g([a,b,c,d], [a(a,b), a(b,c), a(c,d), a(d,b)])).
 
-
-
-	
